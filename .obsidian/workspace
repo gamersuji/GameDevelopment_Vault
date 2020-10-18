@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "cd4b49701d72b28c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f70507beab0222e2",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GIT/Git for PC.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "4a498ba1b45ef6ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Math/Math for GameDev - Freya Holmer.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d75751915e1c448d",
+    "type": "split",
+    "children": [
+      {
+        "id": "75e6f2228fd089bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8c66287a14e3c58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c422e0beb4ea701a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b933ae928b47323",
+    "type": "split",
+    "children": [
+      {
+        "id": "b21dadfaad76ca36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "735dbcd9977b6696",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GIT/Git for PC.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "GIT/Git for PC.md",
+    "Math/Math for GameDev - Freya Holmer.md",
+    "GIT/Untitled.md",
+    "Mesh Manipulation/Creating a simple Quad using code.md",
+    "Mesh Manipulation/Untitled.md",
+    "1D-Graph.png",
+    "A.I Path Finding by Sebastian Lague.md",
+    "Untitled.md",
+    "Math/Untitled.md"
+  ]
+}
