@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tool Dev/Unity/Editor Scripting for N00BS.md",
-            "mode": "source"
+            "file": "Math/Math for GameDev - Freya Holmer.md",
+            "mode": "preview"
           }
         }
       },
@@ -51,12 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
+                "query": ""
               }
             }
           }
@@ -80,12 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tool Dev/Unity/Editor Scripting for N00BS.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Math/Math for GameDev - Freya Holmer.md"
               }
             }
           }
@@ -97,11 +87,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Math/Math for GameDev - Freya Holmer.md",
     "Tool Dev/Unity/Editor Scripting for N00BS.md",
     "Obsidian/Obsidian personal findings.md",
     "Mesh Manipulation/Creating a simple Quad using code.md",
     "GIT/Git for PC.md",
-    "Math/Math for GameDev - Freya Holmer.md",
     "1D-Graph.png",
     "AI/Procedural dungeon generation.md",
     "Untitled.md",
