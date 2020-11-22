@@ -1,0 +1,1 @@
+First I received a test which tested on basic data structure, dynamic memory, linear algebra, and general coding knowledge. After, it took around a week to hear back and schedule a phone interview. during the interview, the group of 3 programmers asked me about memory handling, resume questions, and basic personal questions.

@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f70507beab0222e2",
+        "id": "2ec5d3798932c7ea",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math/Math for GameDev - Freya Holmer.md",
+            "file": "Tool Dev/Unity/Editor Scripting for N00BS.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "22b46377a3d6403d",
+        "id": "82230fbe4903a96d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math/Math for GameDev - Freya Holmer.md",
+            "file": "Tool Dev/Unity/Editor Scripting for N00BS.md",
             "mode": "preview"
           }
         }
@@ -51,7 +51,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -75,7 +80,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Math for GameDev - Freya Holmer.md"
+                "file": "Tool Dev/Unity/Editor Scripting for N00BS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -87,15 +97,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Math/Math for GameDev - Freya Holmer.md",
-    "A.I/Algorithm/Basics on algorithms.md",
+    "Tool Dev/Unity/Editor Scripting for N00BS.md",
+    "Obsidian/Obsidian personal findings.md",
     "Mesh Manipulation/Creating a simple Quad using code.md",
-    "A.I/Algorithm/Untitled.md",
     "GIT/Git for PC.md",
-    "GIT/Untitled.md",
-    "Mesh Manipulation/Untitled.md",
+    "Math/Math for GameDev - Freya Holmer.md",
     "1D-Graph.png",
-    "A.I Path Finding by Sebastian Lague.md",
-    "Untitled.md"
+    "AI/Procedural dungeon generation.md",
+    "Untitled.md",
+    "Tool Dev/Unity/Untitled.md",
+    "Obsidian/Untitled.md"
   ]
 }
